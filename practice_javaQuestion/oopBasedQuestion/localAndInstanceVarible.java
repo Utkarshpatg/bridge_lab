@@ -1,7 +1,7 @@
 package oopBasedQuestion;
 
 public class localAndInstanceVarible {
-    int value =20;  // instance variable
+    static int value =20;  // instance variable
 
     public void showValue(){
         int value = 30;

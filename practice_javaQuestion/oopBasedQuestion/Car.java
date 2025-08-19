@@ -15,12 +15,14 @@ public class Car {
     public void numberOfObjet(){
         System.out.println(cnt);
     }
+//    @Override
     public static void main(String[] args) {
         Car car1 = new Car("BMW",1990);
         Car car2 = new Car("AUDI", 2001);
         car1.viewDetails();
         car2.viewDetails();
         car1.numberOfObjet();
+//        System.out.println(car1.toString());
 
     }
 }
