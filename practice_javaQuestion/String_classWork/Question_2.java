@@ -18,6 +18,4 @@ public class Question_2 {
 		}
 		System.out.println(res);
 	}
-		
-
 }
