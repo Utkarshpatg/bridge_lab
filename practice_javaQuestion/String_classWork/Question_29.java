@@ -1,0 +1,8 @@
+package String_classWork;
+
+import java.util.Scanner;
+
+//Implement a simple regex matcher for patterns like a*b, a?b, etc. (basic only).
+public class Question_29 {
+
+}
